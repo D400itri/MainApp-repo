@@ -1,0 +1,6 @@
+# Visual Studio 快取（一定要忽略！）
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
