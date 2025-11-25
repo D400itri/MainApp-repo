@@ -33,11 +33,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleA\\ModuleA.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleA\\ModuleA.csproj"
+              "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj"
               },
-              "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleB\\ModuleB.csproj": {
-                "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleB\\ModuleB.csproj"
+              "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\ModuleB.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\ModuleB.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleA\\ModuleA.csproj": {
+    "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleA\\ModuleA.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj",
         "projectName": "ModuleA",
-        "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleA\\ModuleA.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleA\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleB\\ModuleB.csproj": {
+    "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\ModuleB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleB\\ModuleB.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\ModuleB.csproj",
         "projectName": "ModuleB",
-        "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleB\\ModuleB.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\ModuleB.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\ModuleB\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

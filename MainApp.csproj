@@ -6,11 +6,14 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ModuleA\ModuleA.csproj" />
-    <ProjectReference Include="..\ModuleB\ModuleB.csproj" />
+    <ProjectReference Include="Modules\ModuleA\ModuleA.csproj" />
+    <ProjectReference Include="Modules\ModuleB\ModuleB.csproj" />
   </ItemGroup>
 
 </Project>
