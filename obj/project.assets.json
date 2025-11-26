@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Downloads\\MainApp-repo\\MainApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\MainApp.csproj",
       "projectName": "MainApp",
-      "projectPath": "C:\\Users\\user\\Downloads\\MainApp-repo\\MainApp.csproj",
+      "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\MainApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Downloads\\MainApp-repo\\obj\\",
+      "outputPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,11 +75,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\user\\Downloads\\MainApp-repo\\Modules\\ModuleA\\ModuleA.csproj": {
-              "projectPath": "C:\\Users\\user\\Downloads\\MainApp-repo\\Modules\\ModuleA\\ModuleA.csproj"
+            "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleA\\ModuleA.csproj"
             },
-            "C:\\Users\\user\\Downloads\\MainApp-repo\\Modules\\ModuleB\\ModuleB.csproj": {
-              "projectPath": "C:\\Users\\user\\Downloads\\MainApp-repo\\Modules\\ModuleB\\ModuleB.csproj"
+            "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\ModuleB.csproj": {
+              "projectPath": "C:\\Users\\user\\OneDrive\\工作區\\處理中\\GitSubmoduleDemo\\MainApp\\Modules\\ModuleB\\ModuleB.csproj"
             }
           }
         }
