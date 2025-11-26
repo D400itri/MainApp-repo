@@ -4,3 +4,22 @@
 *.user
 *.userosscache
 *.sln.docstates
+
+# 編譯產生的資料夾（最重要！全部都要忽略）
+bin/
+obj/
+
+# 其他 .NET 常見要忽略的
+*.dll
+*.pdb
+*.cache
+*.tmp
+*.log
+
+# NuGet 套件
+packages/
+*.nupkg
+
+# Rider / VS Code 等其他 IDE（可選）
+.idea/
+.vscode/
